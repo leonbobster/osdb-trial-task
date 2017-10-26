@@ -1,4 +1,4 @@
-# OSDB.id trial task app
+# OSDB.io trial task app
 
 ### Install:
 
